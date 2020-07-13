@@ -1,0 +1,17 @@
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.Tests.deps.json
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.Tests.runtimeconfig.json
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.Tests.runtimeconfig.dev.json
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.Tests.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.Tests.pdb
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/bin/Debug/netcoreapp2.1/OrderManagement.pdb
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.csprojAssemblyReference.cache
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.csproj.CoreCompileInputs.cache
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.AssemblyInfoInputs.cache
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.AssemblyInfo.cs
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.csproj.CopyComplete
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.dll
+/Users/meeradw/Projects/ProcessPayment/OrderManagement.Tests/obj/Debug/netcoreapp2.1/OrderManagement.Tests.pdb
