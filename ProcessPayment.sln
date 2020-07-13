@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement", "OrderManagement\OrderManagement.csproj", "{B05E6C20-F92A-49DB-94ED-36EAB15CE249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement.Tests", "OrderManagement.Tests\OrderManagement.Tests.csproj", "{6546F551-2A46-42F2-9B62-F155E3E476F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05E6C20-F92A-49DB-94ED-36EAB15CE249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05E6C20-F92A-49DB-94ED-36EAB15CE249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05E6C20-F92A-49DB-94ED-36EAB15CE249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05E6C20-F92A-49DB-94ED-36EAB15CE249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6546F551-2A46-42F2-9B62-F155E3E476F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6546F551-2A46-42F2-9B62-F155E3E476F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6546F551-2A46-42F2-9B62-F155E3E476F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6546F551-2A46-42F2-9B62-F155E3E476F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
