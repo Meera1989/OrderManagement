@@ -12,6 +12,7 @@
     <Folder Include="Models\Common\" />
     <Folder Include="Models\Membership\" />
     <Folder Include="Models\Payment\" />
+    <Folder Include="Models\Products\" />
   </ItemGroup>
 
   <ItemGroup>

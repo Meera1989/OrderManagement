@@ -21,15 +21,15 @@ namespace OrderManagement.Controllers
         }
 
         // POST api/values/
-        [HttpGet("ProcessOrder/{productId}/{memberId}")]
-        //public void ProceesOrder([FromBody] string value)
-        public async Task<ActionResult> ProceesOrder(int productId,int memberId)
+        //[HttpGet("ProcessOrder/{productId}/{memberId}")]
+        public async Task<ActionResult> ProceesOrder([FromBody] OrderRequest request)
+       // public async Task<ActionResult> ProceesOrder(int productId,int memberId)
         {
-            OrderRequest request = new OrderRequest()
-            { 
-                ProductId = productId,
-                MemberId = memberId
-            };
+            //OrderRequest request = new OrderRequest()
+            //{ 
+              //  ProductId = productId,
+                //MemberId = memberId
+            //};
             var validationResult = new ValidationResult();
             if (Validate(validationResult, request).IsSuccess)
             {
@@ -49,7 +49,7 @@ namespace OrderManagement.Controllers
           
         }
 
-        private ValidationResult Validate(ValidationResult validationResult,OrderRequest request)
+        private ValidationResult Validate(ValidationResult validationResult, OrderRequest request)
         {
             validationResult.IsSuccess = false;
             if (request == null)
@@ -62,7 +62,20 @@ namespace OrderManagement.Controllers
                 validationResult.Message = "ProductId is required.";
                 validationResult.ErrorCode = ErrorCode.ProductRequired;
             }
-            else if (request.MemberId == 0)
+            else if ((request.PaymentTypeId == PaymentType.Membership || 
+            request.PaymentTypeId == PaymentType.Upgrade))                
+                
+            {
+                if (request.MemberInfo == null
+                || String.IsNullOrEmpty(request.MemberInfo?.Name))
+                {
+                    validationResult.Message = "Invalid Member Details.";
+                    validationResult.ErrorCode = ErrorCode.MemberIdRequired;
+                }
+                else
+                    validationResult.IsSuccess = true;
+            }
+            else if(request.MemberId == 0)
             {
                 validationResult.Message = "MemberId is required.";
                 validationResult.ErrorCode = ErrorCode.MemberIdRequired;

@@ -1,0 +1,13 @@
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Release/netcoreapp2.1/OrderManagement.deps.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Release/netcoreapp2.1/OrderManagement.runtimeconfig.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Release/netcoreapp2.1/OrderManagement.runtimeconfig.dev.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Release/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Release/netcoreapp2.1/OrderManagement.pdb
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.csproj.CoreCompileInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.RazorAssemblyInfo.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.RazorAssemblyInfo.cs
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.AssemblyInfoInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.AssemblyInfo.cs
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.RazorTargetAssemblyInfo.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Release/netcoreapp2.1/OrderManagement.pdb
