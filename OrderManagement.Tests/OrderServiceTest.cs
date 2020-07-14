@@ -42,12 +42,11 @@ namespace OrderManagement.Tests
             var obj = new OrderService(mockMemberService.Object, mockProductService.Object);
             var request = GetOrderRequest();
             request.PaymentTypeId = PaymentType.Membership;
-            mockProductService.Setup(x => x.GetProduct(request.ProductId)).Returns(new Product() { Id = 1, UnitPrice = 100 });
-
+           
             var result = await obj.ProcessOrder(request);
             Assert.IsNotNull(result);
             Assert.IsNotNull(result.OrderId);
-            mockProductService.Verify(x => x.GetProduct(request.ProductId), Times.Once);
+           
         }
 
 
