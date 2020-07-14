@@ -29,6 +29,8 @@ namespace OrderManagement
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSingleton<IOrderService, OrderService>();
+            services.AddSingleton<IMemberService, MemberService>();
+            services.AddSingleton<IProductService, ProductService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

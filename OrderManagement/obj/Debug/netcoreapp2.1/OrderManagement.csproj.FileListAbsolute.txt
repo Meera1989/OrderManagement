@@ -12,3 +12,16 @@
 /Users/meeradw/Projects/ProcessPayment/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.dll
 /Users/meeradw/Projects/ProcessPayment/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.pdb
 /Users/meeradw/Projects/ProcessPayment/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.csprojAssemblyReference.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Debug/netcoreapp2.1/OrderManagement.deps.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Debug/netcoreapp2.1/OrderManagement.runtimeconfig.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Debug/netcoreapp2.1/OrderManagement.runtimeconfig.dev.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Debug/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/bin/Debug/netcoreapp2.1/OrderManagement.pdb
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.csproj.CoreCompileInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.RazorAssemblyInfo.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.RazorAssemblyInfo.cs
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.AssemblyInfoInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.AssemblyInfo.cs
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.RazorTargetAssemblyInfo.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement/obj/Debug/netcoreapp2.1/OrderManagement.pdb

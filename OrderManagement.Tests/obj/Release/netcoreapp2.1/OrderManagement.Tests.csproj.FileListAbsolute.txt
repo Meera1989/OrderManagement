@@ -1,0 +1,17 @@
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.Tests.deps.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.Tests.runtimeconfig.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.Tests.runtimeconfig.dev.json
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.Tests.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.Tests.pdb
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/bin/Release/netcoreapp2.1/OrderManagement.pdb
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.csprojAssemblyReference.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.csproj.CoreCompileInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.AssemblyInfoInputs.cache
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.AssemblyInfo.cs
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.csproj.CopyComplete
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.dll
+/Users/meeradw/Desktop/Order management system/Meera1989/OrderManagement.git/OrderManagement.Tests/obj/Release/netcoreapp2.1/OrderManagement.Tests.pdb
